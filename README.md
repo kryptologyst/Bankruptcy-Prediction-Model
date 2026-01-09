@@ -315,9 +315,9 @@ If you use this project in your research, please cite:
 ```bibtex
 @software{bankruptcy_prediction,
   title={Bankruptcy Prediction Model},
-  author={AI Research Team},
-  year={2024},
-  url={https://github.com/your-repo/bankruptcy-prediction}
+  author={Kryptologyst},
+  year={2026},
+  url={https://github.com/kryptologyst/Bankruptcy-Prediction-Model}
 }
 ```
 
